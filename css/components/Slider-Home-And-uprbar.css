@@ -149,25 +149,29 @@ background-size: cover;
 }
  
  .slider-top .carousel-one{
+	 background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
 
- background-image: url('../../img-All/Slider-Home-boot/Grmin-2grles--party.jpg');
+
 }
  .slider-top .carousel-tow{
+background-image: url('../../img-All/Slider-Home-boot/Unfrs.jpg');
 
-background-image: url('../../img-All/Slider-Home-boot/Grmin-chool2grils.jpg');
+
 }
 
  .slider-top .carousel-three{
-background-image: url('../../img-All/Slider-Home-boot/Grmin-chool-6grles.jpg');
+	  background-image: url('../../img-All/Slider-Home-boot/Grmin-2grles--party.jpg');
+
 
 }
 
   .slider-top .carousel-four{
-	  	   background-image: url('../../img-All/Slider-Home-boot/Unfrs.jpg');
+	  background-image: url('../../img-All/Slider-Home-boot/Grmin-chool2grils.jpg');
+
 }
  .slider-top .carousel-five{
 
-background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
+	  	   background-image: url('../../img-All/Slider-Home-boot/slider-min.jpg');
 }
 .indicators-Heder li {
     height: 13px;
@@ -238,8 +242,11 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
 /*  background-color: #7a1b1d;*/
  
 }
-
-/*End corsoul siader*/
+.slider-top .cd-words-wrapper  {
+	margin-top: 200px;
+	
+}
+ /*End corsoul siader*/
 /*=====================================================*/
 .col-GetQuote-tile{
 	text-align: left;
@@ -252,3 +259,12 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
     color: #ffcc00;
 } 
 }
+   .slider-top .data  {
+    background-color: rgba(0,0,0, .90)!imporant;
+		    background: rgba(0,0,0,.8);
+	color: #fff;
+	padding-top: 40px;
+	padding-bottom: 70px;
+    min-height: 400px;
+/*	color: #00f;*/
+ }

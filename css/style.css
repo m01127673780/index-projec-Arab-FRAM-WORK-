@@ -298,3 +298,19 @@ section{
 .contact-maps{
 	overflow:inherit;
 }
+.pag-mab-contact-us {
+    background: url(../../img/background/bg-map.png);
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 30px;
+    margin-bottom: -18px;
+    /* margin-top: -86px; */
+	overflow: visible;}
+
+.div-text-clop{ 
+        max-width: 400px;
+    margin: 0 auto;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 16px;
+}
