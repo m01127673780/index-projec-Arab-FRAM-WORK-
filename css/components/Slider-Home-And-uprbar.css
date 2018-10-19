@@ -3,13 +3,11 @@
 
 
 .upper-bar{
-
+padding: 10px 0;
   color: #fff;
-  padding: 20px;
-  font-size:17px;
+   font-size:17px;
   color: #E3CE84;
-	padding: 0;
-  background-color: #7A1B1D;
+   background-color: #7A1B1D;
     
 
  }
@@ -23,10 +21,11 @@
 }
   .upper-bar .Get-Quote{
     display: inline-block;
-    border: 1px solid #ec1c23;
-    padding: 2px 10px;
+     padding: 2px 10px;
     margin-left: 20px;
-
+border: 1px dashed #ec1c23;
+	  color: #fff;
+	  
   }
 .fA{
      top: -20px;
@@ -190,14 +189,14 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
     width: 12px;
 
     color:#000;
-    background-color:#7a1b1d;
+/*    background-color:#7a1b1d;*/
     border: 1px solid #fff;
     margin-top:-8px;
 }
 
 .slider-top .carousel-control-prev{
     
-    background-color: #00f;
+/*    background-color: #00f;*/
     color: red;
     width: 33px;
     height: 29px;
@@ -208,13 +207,13 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
 }
   .slider-top .carousel-control-prev:hover{
 
-  background-color: #7a1b1d;
+/*  background-color: #7a1b1d;*/
  
 }
 .slider-top  .carousel-control-next-icon
 {
     
-    background-color: #00f;
+/*    background-color: #00f;*/
     color: red;
     width: 33px;
     height: 29px;
@@ -225,7 +224,7 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
 }
 .slider-top .carousel-control-next-icon{
     
-    background-color: #000;
+/*    background-color: #000;*/
     color: red;
     width: 33px;
     height: 29px;
@@ -236,7 +235,7 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
 }
 .slider-top .carousel-control-next-icon:hover{
 
-  background-color: #7a1b1d;
+/*  background-color: #7a1b1d;*/
  
 }
 

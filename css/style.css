@@ -291,3 +291,10 @@ body{
 	color: #ffcc00;
 	font-size: 33px;
 }
+
+section{
+	overflow: hidden;
+}
+.contact-maps{
+	overflow:inherit;
+}
