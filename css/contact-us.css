@@ -1,0 +1,141 @@
+/*///////////////////////////////////////////////*/
+
+h2{
+
+    color: red;
+    padding:50px;
+    text-align: center;
+    margin-bottom: 50px;
+ }
+
+.our-form{
+    
+    width: 700px;
+    height: 10px;
+    margin:auto;
+  }
+ 
+.our-form from input,
+.our-form from textarea,
+ .our-form from .custom-file
+{
+      margin-bottom:15px;
+     width:700px;
+    margin-right: 10px;
+           
+}
+.our-form input[type="text"],
+.our-form input[type="email"],
+.our-form input[type="password"],
+.our-form input[type="submit"],
+
+.our-form textarea{
+    padding: 20px;
+     height: 50px;
+ }
+.our-form textarea{
+    height: 150px;
+    border:none;
+    
+} 
+
+.our-form .custom-file input[type="file"]{
+    
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 2;
+    
+}
+
+.our-form from .custom-file{
+    
+    background-color: #fff;
+    border: 1px solid #ccc;
+    position: relative;
+    height: 60px;
+ 
+    
+    
+}
+.our-form from .custom-file span{
+        padding: 8px 12px;
+    display: inline-block;
+    /*margin-left: -250px;*/
+        padding-right: 268px;
+     color: #888;
+    font-size: 30;
+    
+    
+    
+}
+
+.our-form from .custom-file .fa-upload{
+    position: absolute;
+    right: 10;
+    top: 10px;
+    color: red;
+    z-index: 1;
+}
+.our-form .custom-file input[ type="submit"]{
+    
+    padding: 15px; 
+    font-size: 16px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    
+}
+.our-form .tags span{
+    padding: 5px 10px;
+    background-color: #dedede;
+    display: inline-block;
+    margin: 10px 10px 10px 0;
+    border-radius: 8px;
+    color: #969696;
+     
+}
+ 
+.our-form .tags span i{
+    
+    margin-right: 5px;
+    color: #969696;
+    cursor: pointer;
+}
+.our-form .tags span i:hover{
+    color: #123456;
+    
+}
+.our-form .this-message
+  {
+    margin-right: -771;
+         color: red;
+      display: none;
+      font-size: 20px;
+}
+/*end our form *//*start our form*/
+
+button{
+
+    color: #fff;
+    background-color: red;
+    border:  1px solid #00f;
+   width: 700px;
+    height: 10px;
+    margin:auto;
+      margin-bottom:15px;
+     width:700px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+

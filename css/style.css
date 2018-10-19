@@ -1,0 +1,293 @@
+  /*theme Name:my site
+theme coder : MOhamed Elsaeed   
+progct Designer:M:saeed Acadmy;
+dat: 10/16/2018 11.15h:8:pm
+first color:#08526d
+secondcolocr:#eclc23
+*/
+/*start golobl*/
+ 
+/*start golobl*/
+/*srtart Upper par*/
+
+ 
+ /*color firstmin: #E3CE90; */
+  /*color Tow:#7A1B1D;red ;
+ navbar color :#007bff;
+  */
+
+
+ 
+
+ 
+@import url(bootstrap.min.css);
+@import url(vendrs/font-awesome.min.css);
+@import url(vendrs/et-line-icons.css);
+@import url(vendrs/animate.min.css);
+@import url(vendrs/magnific-popup.css);
+ @import url(vendrs/lity.min.css);/**/
+ @import url(vendrs/Animate-Headline222.css.css);/**/
+
+@import url(vendrs/bootstrap+fontAwsame/font-awesome.min.css);
+/*@import url(componnt/buttons.css);*/
+@import url(componnt/shooc-us.css);
+/*------------------------------------------------------*/
+ 
+/*-----------------------------------------------------*/
+
+ 
+
+
+/*===============================================*/
+ @import url(components/Slider-Home-And-uprbar.css); /*Slider-Home-boot
+ img====> Slider-Home-And-uprbar => */ 
+ 	 
+/*===============================================*/
+ @import url(components/feuatures.css); /*feuatures*/
+/*===============================================*/
+
+ @import url(components/testimonials.css); /*testimonials*/
+/*	  img====> Slider-Home-And-uprbar =>  */
+
+/*===============================================*/
+/*===============================================*/
+ @import url(components/saftCsript-jquery.css); /*testimonials*/
+/*	  img====> Slider-Home-And-uprbar =>  */
+/*===============================================*/
+  @import url(components/price-taple-and-plin.css); /*price-taple-and-plin*/
+/*	  img====> price-taple-and-plin=>  */
+ /*===============================================*/
+/*===============================================*/
+  @import url(components/contact-us-form.css); /*price-taple-and-plin*/
+/*	  img====> price-taple-and-plin=>  */
+ /*===============================================*/
+/*===============================================*/
+  @import url(components/footer-Acadmy.css); /*price-taple-and-plin*/
+/*	  img====> price-taple-and-plin=>  */
+ /*===============================================*/
+/*===============================================*/
+  @import url(components/our-teem.css.css); /*price-taple-and-plin*/
+/*	  img====> price-taple-and-plin=>  */
+ /*===============================================*/
+
+/*===============================================*/
+  @import url(components/stst.css.css); /*price-taple-and-plin*/
+/*	  img====> price-taple-and-plin=>  */
+ /*===============================================*/
+/*===============================================*/
+  @import url(components/progres-bar-main.css); /*price-taple-and-plin*/
+/*	  img====> price-taple-and-plin=>  */
+ /*===============================================*/
+
+
+
+
+
+
+
+
+
+ @import url(componnt/buttons.css);
+
+	 
+	 
+	 
+/**start glopl*/
+
+.ftureAcdmy-wow{
+    
+    margin:100px;
+    font-size: 20px;
+}
+
+
+
+
+body{
+
+/*
+   color: #E3CE90; 
+  height: 100px;
+  background-color: #111;
+      font-family: sans-serif;
+    min-height: 1000px;
+*/
+/*	    font-size: 1.6rem;*/
+    font-family: source sans pro,sans-serif;
+    color: #aebcb9;
+    background-color: #0d0d0d;
+ 
+}
+
+
+/**start glopl*/ 
+.margin{
+	margin: 50px 0;
+}
+/**start glopl*/  
+.indicators-down li {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    cursor: pointer;
+    bottom: 5px;
+        /*background-color:#fff;*/
+    border: 1px solid #aaa;
+}
+.carousel-indicators .active{
+    height: 18px;
+    width: 12px;
+
+    color:#000;
+    background-color:#7a1b1d;
+    border: 1px solid #fff;
+    margin-top:-8px;
+}
+
+ 
+@media (max-width: 768px){
+  .carousel-control-next-icon, .carousel-control-prev-icon {
+    left: 63px;
+    margin: 0;
+    padding: 0;
+    position: static;
+    margin-left: 76px;
+}
+}
+/*<!--custmboot bootstripe-->/*/
+/*<!--Control style-->/*/
+  .progres-bar-main.back-over .data  {
+    background-color: rgba(0,0,0, .90)!imporant;
+		    background: rgba(0,0,0,.8);
+	color: #fff;
+	padding-top: 40px;
+	padding-bottom: 70px;
+    min-height: 400px;
+/*	color: #00f;*/
+ }
+
+.video-icon	 .fa-play{
+	    font-size:20px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+}
+.video-icon	 .fa-play:before {
+    content: "\f04b";
+    color: transparent;
+
+}
+.title-and-bottons .span-clip-title  {
+	 
+	 
+	
+}
+.title-and-bottons .cd-headline.clip b  {
+/*
+	font-size: 20px!important;
+	font-weight: bold;
+*/
+	 
+	
+}
+.title-and-bottons {
+    margin: 10px 0;
+    margin-bottom: 250px;
+}
+.title-Colip{
+	max-width: 600px;
+ }
+/*<!--Control style-->/*/
+
+
+
+.fa-github:before {
+    content: "\f09b";
+    font-weight: bold;
+    font-size: 28px;
+}
+.cd-headline.
+ .cd-words-wrapper,
+  .cd-headline >span
+  
+{
+    font-size: 33px;
+}
+.cd-headline.
+ .cd-words-wrapper,
+  .cd-headline >span
+  
+{
+    font-size: 33px;
+}
+
+
+
+.cd-headline
+ .cd-words-wrapper,
+  .cd-headline >span
+ {
+    font-size: 33px;
+}
+
+
+
+/*.our-team-tow*/ .cd-headline
+ .cd-words-wrapper,
+  .cd-headline >span
+ {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+
+/*.our-team-tow*/ .cd-headline.slide b
+  
+ {
+    font-size: 24px;
+    text-transform: uppercase;
+	 color: #ffcc00;
+	 margin-top: 29px;
+}
+
+.statistics .cd-words-wrapper 
+  
+ {
+    font-size: 24px;
+    text-transform: uppercase;
+	 color: #ffcc00;
+	 margin-top: 29px;
+}
+
+
+
+
+
+
+
+.cd-headline.rotate-1
+.cd-words-wrapper{
+		color: red;
+
+}
+
+@media(max-width:768px){
+	.title-and-bottons .cd-headline.clip b{
+		font-size: 23px;
+		color: #ffcc00;
+	}
+}
+@media(max-width:768px){
+	.g-recaptcha{
+		margin: 50px 0;
+	}
+}
+@media(max-width:768px){
+	.row contact-icon  {
+		    margin: 180px 0!important;
+    padding-bottom: 256px  !important;
+	}
+}
+.icon-happy{
+	color: #ffcc00;
+	font-size: 33px;
+}

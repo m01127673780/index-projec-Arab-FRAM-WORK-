@@ -1,0 +1,252 @@
+body{
+		background-color:#09344d;
+
+}
+ /************************************************************************/
+/*******************************************************************/
+.fotr-background{
+    
+   /* background-color: #fff;*/
+    
+}
+
+.img-footr{
+
+  width: 100%;
+  margin: 0;
+/*  margin-bottom: 50px;*/
+/*  margin-top:30px;*/
+ }
+/*************************************************************/
+
+
+  
+
+
+.color-fottor{
+ 
+}
+
+.footer{
+
+/*    height: 200px;*/
+ 
+}
+
+.stats{
+
+color:  #08526d;
+ 
+   
+
+  }
+
+
+ .stats .nuumber
+{
+
+display: block;
+font-size: 25px;
+font-weight: bold;
+
+ 
+ 
+  }
+ .stats .statst-p{
+
+
+color: #ed1d24;
+font-size: 0px;
+
+ }
+
+
+/* End stats */
+
+
+
+
+ /************************************************************************/
+/*start **********************fotor*/
+
+  	.foter-section
+{
+	background-color:#09344d;
+	color: #e3ce90;
+
+  
+}
+
+
+ 
+ 
+
+
+.footer{
+  padding:   0;
+  font-size: 17px;
+}
+.footer .site-info h2{
+    font-size: 50px;
+    font-size: 50px;
+    margin-top: -103px;
+    margin-bottom: 102px;
+    margin-left:170px;
+	border-bottom: 2px solid;
+    line-height: 2;
+}
+
+.footer .site-info h2 span:first-child{
+
+color: #08526d;
+color: #3a606d;
+  font-size: 50px;
+  font-weight: bold;
+	      margin-left: 33px;
+ 
+}
+.footer .site-info span:last-child{
+  color: #ec1c23 ;
+  color: #a53f42 ;
+    font-size:50px;
+ 
+
+ }
+
+.footer .site-info .pargriph{
+  line-height: 2;
+ margin-bottom: 100!important;
+ }
+
+.footer .site-info .pargriph  a{
+ 
+    color: #08526d;
+    font-weight: bold;
+    font-size: 28px;
+}
+.footer .site-info .pargriph  a.sholl-made:before{
+  font-family: 'fontAwesome';
+content: "\f138";
+display: inline-block;
+    margin-right: 7px;
+ 
+}
+.footer .site-info .pargriph .fa {
+     margin: 0 20px;
+    color:#978686;
+    font-size: 27px;
+}
+.footer .site-info .pargriph .fa:hover {
+	
+	color: #ffcc00;
+}
+
+@media(max-width:768px){
+	.footer .site-info .pargriph .fa {
+		     margin: 0 10px!important;
+
+	}
+}
+
+.footer .helpful-links h2 {
+
+      font-size: 25px;
+    color: #80526d;
+    line-height: 2;
+/*     margin-bottom: 84px;  */
+
+}
+.footer .contact  h2 {
+
+      font-size: 25px;
+    color: #80526d;
+    line-height: 2;
+/*     margin-bottom: 84px;  */
+    
+}
+.footer .helpful-links ul li:before{
+ font-family: 'fontAwesome';
+  content:"\f054";
+  margin-right: 5px;
+       margin-bottom: 84px;  
+
+}
+
+   .footer .contact ul li{
+    }
+
+.footer .helpful-links h2,
+.footer .contact h2{
+/*     margin-bottom: 58px;*/
+    margin-top: 63px;  
+    margin-left: 171px !imporant;  
+	
+}
+
+
+
+
+/*End********************* fotor*/
+/*start copyright*/
+  {
+	    margin: 0;
+    padding: 0;
+    margin-bottom: -58px;
+    position: absolute;
+    bottom: -29px;
+    left: 160px;
+	
+}
+   {
+   display: inline-block;
+   margin-left: 20px;
+   font-size: 20px;
+   height: auto;
+   color: red;
+	  
+ } 
+
+ 
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+    
+       #starbox{
+           width: 100%;
+           height: 100%;
+       }
+        #dot {
+            width: 1px;
+            height: 1px;
+            background: transparent;
+            box-shadow: 1075px 1382px #fff, 995px 765p
+
+}
+
+
+
+
+
+/*End copyright*/
+/**start glopl*/
+ 
+.sochal-maide-ic-foot {
+    padding-top: 101px 0;
+    padding: 50px 0;
+	background-color:#09344d;
+ 	    border-top: 1px solid #777;
+    padding-top: 20px;
+}
+.sochal-maide-ic-foot a {
+    width: 25px;
+    margin-right: 42px;
+    font-size: 30px;
+}
+.fields{
+	    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #fff;
+	    color: #a16767;
+    line-height: 2;
+}
+ 

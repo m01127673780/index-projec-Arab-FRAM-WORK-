@@ -1,0 +1,255 @@
+ /**start upper-bar*/ 
+
+
+
+.upper-bar{
+
+  color: #fff;
+  padding: 20px;
+  font-size:17px;
+  color: #E3CE84;
+	padding: 0;
+  background-color: #7A1B1D;
+    
+
+ }
+
+
+.upper-bar span{
+
+  color: #d7bf8e; 
+	
+
+}
+  .upper-bar .Get-Quote{
+    display: inline-block;
+    border: 1px solid #ec1c23;
+    padding: 2px 10px;
+    margin-left: 20px;
+
+  }
+.fA{
+     top: -20px;
+     width: 60px;
+    height: 60px;
+    margin-left: -200px;
+    border-radius: 50%;
+    border: 1px solid #7a1b1d;
+}
+.future-Brend{
+}
+/*end  Upper par*/
+ /*******************************************************************************/
+ /************************************************************************/
+/*start  nave bar par*/
+.navbar{
+
+  background-color:   #E3CE90; 
+  color: :#007bff;
+        font-size: 20px;
+    font-weight: bold;
+
+  /*color Tow:#7A1B1D;red ;*/
+
+}
+.navbar-brand{
+  margin-top: 1px;
+ }
+.navbar-brand span{
+
+  font-size: 40px;
+}
+.navbar-brand span:first-child{
+ color:#00f;
+    font-size: 50px;
+  font-weight: bold;
+
+}
+
+.navbar-brand span:last-child{
+  color: #ec1c23 ;
+  font-size: 50px;
+}
+ .navbar-nav .nav-link{
+
+  font-size: 16;
+  text-transform: uppercase; 
+  margin-left: 20px;
+   color: #E3CE90; 
+ }
+.navbar-nav .nav-link:hover{
+    
+    background-color:  color:  #007bff;
+;}
+ 
+ 
+
+  .navbar-light .navbar-nav .active>.nav-link,
+   .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .nav-link.show,
+     .navbar-light .navbar-nav .show>.nav-link {
+    color: #00f;
+
+}
+       .font-navbar{
+font-size:20px;
+color:  #ffff;
+background-color:  #E3CE84;
+      }
+
+
+.dropdown-menu{
+    
+    background-color: #E3CE84;
+    color: #f00;
+    height: 250px;
+                margin-top: 27px;
+
+}
+
+.dropdown-menu:hover{
+    
+    border:1px solid #00f;
+}
+
+.dropdown-item {
+    color:#5a574f;
+    font-style: oblique;
+    font-size: 20px;
+        min-width: 270px;
+    height: 50px;
+
+    -webkit-transition:padding 0.5s ease;
+      -o-transition:padding 0.5s ease;
+      -moz-transition:padding 0.5s ease;
+      transition:padding 0.7s ease;
+     
+ }
+.dropdown-item:hover{
+    
+    background-color:  #7a1b1d;
+    color: #fff;
+    padding-left: 40px;
+}
+/*end  nave bar par*/
+/*====================================*/
+
+/*start corsoul siader*/
+.slider-top{
+
+  background-color: #ddd;
+
+}
+
+ .slider-top .carousel-item{
+
+background-size: cover;
+-webkit-background-size:cover;
+-o-background-size:cover
+ background-size:cover;
+}
+ 
+ .slider-top .carousel-one{
+
+ background-image: url('../../img-All/Slider-Home-boot/Grmin-2grles--party.jpg');
+}
+ .slider-top .carousel-tow{
+
+background-image: url('../../img-All/Slider-Home-boot/Grmin-chool2grils.jpg');
+}
+
+ .slider-top .carousel-three{
+background-image: url('../../img-All/Slider-Home-boot/Grmin-chool-6grles.jpg');
+
+}
+
+  .slider-top .carousel-four{
+	  	   background-image: url('../../img-All/Slider-Home-boot/Unfrs.jpg');
+}
+ .slider-top .carousel-five{
+
+background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
+}
+.indicators-Heder li {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    cursor: pointer;
+    bottom: 5px;
+        /*background-color:#fff;*/
+    border: 1px solid #aaa;
+ -webkit-transition:all .5s ease;
+          -moz-transition:all .5s ease;
+          -ms-transition:all .5s ease;
+          -o-transition:all .5s ease;
+          transition:all .5s ease;
+
+}
+.carousel-indicators .active{
+    height: 18px;
+    width: 12px;
+
+    color:#000;
+    background-color:#7a1b1d;
+    border: 1px solid #fff;
+    margin-top:-8px;
+}
+
+.slider-top .carousel-control-prev{
+    
+    background-color: #00f;
+    color: red;
+    width: 33px;
+    height: 29px;
+    top: 220px;
+    left:60px;
+        
+    
+}
+  .slider-top .carousel-control-prev:hover{
+
+  background-color: #7a1b1d;
+ 
+}
+.slider-top  .carousel-control-next-icon
+{
+    
+    background-color: #00f;
+    color: red;
+    width: 33px;
+    height: 29px;
+    top: 220px;
+    left:60px;
+        
+         
+}
+.slider-top .carousel-control-next-icon{
+    
+    background-color: #000;
+    color: red;
+    width: 33px;
+    height: 29px;
+    top: 220px;
+    left:60px;
+        
+    
+}
+.slider-top .carousel-control-next-icon:hover{
+
+  background-color: #7a1b1d;
+ 
+}
+
+/*End corsoul siader*/
+/*=====================================================*/
+.col-GetQuote-tile{
+	text-align: left;
+}
+@media(max-width:768px){
+.col-GetQuote-tile {
+     text-align:left!important; 
+    margin: 20px 0;
+    font-weight: bold;
+    color: #ffcc00;
+} 
+}

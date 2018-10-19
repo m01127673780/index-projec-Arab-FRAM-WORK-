@@ -1,0 +1,107 @@
+  /*theme Name:my site
+theme coder : MOhamed Elsaeed   
+progct Designer:M:saeed Acadmy;
+dat: 10/16/2018 11.15h:8:pm
+first color:#08526d
+secondcolocr:#eclc23
+*/
+/*start golobl*/
+ 
+/*start golobl*/
+/*srtart Upper par*/
+
+ 
+ /*color firstmin: #E3CE90; */
+  /*color Tow:#7A1B1D;red ;
+ navbar color :#007bff;
+  */
+/*===============================================*/
+ @import url(components/Slider-Home-And-uprbar.css) /*Slider-Home-boot
+ img====> Slider-Home-And-uprbar => */ 
+ 	 
+/*===============================================*/
+ @import url(components/feuatures.css) /*feuatures*/
+/*===============================================*/
+
+ @import url(components/testimonials.css) /*testimonials*/
+/*	  img====> Slider-Home-And-uprbar =>  */
+
+/*===============================================*/
+
+ 
+/**start glopl*/
+
+.ftureAcdmy-wow{
+    
+    margin:100px;
+    font-size: 20px;
+}
+
+
+
+
+body{
+
+   color: #E3CE90; 
+  height: 100px;
+  background-color: #111;
+      font-family: sans-serif;
+    min-height: 1000px;
+ 
+}
+
+
+/**start glopl*/ 
+.margin{
+	margin: 50px 0;
+}
+/**start glopl*/  
+.indicators-down li {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    cursor: pointer;
+    bottom: 5px;
+        /*background-color:#fff;*/
+    border: 1px solid #aaa;
+}
+.carousel-indicators .active{
+    height: 18px;
+    width: 12px;
+
+    color:#000;
+    background-color:#7a1b1d;
+    border: 1px solid #fff;
+    margin-top:-8px;
+}
+.feuatures-sadow-brder i{
+    
+    /*transition: all .5s infinite ease;
+        animation: waving 1.5s infinite ease-in-out;
+*/
+}
+
+ .feuatures-sadow-brder:hover i {
+
+ 
+ -webkit-transform:scale(.5) rotate(350deg);
+ -moz-transform:scale(.5) rotate(360deg);
+ -o-transform:scale(.5) rotate(360deg);
+ -ms-transform:scale(.5) rotate(360deg);
+  transform:scale(.5) rotate(360deg);
+
+}
+/********************************************************************************/
+ 
+
+ 
+@media (max-width: 768px){
+  .carousel-control-next-icon, .carousel-control-prev-icon {
+    left: 63px;
+    margin: 0;
+    padding: 0;
+    position: static;
+    margin-left: 76px;
+}
+}
+/*<!--custmboot bootstripe-->/*/
